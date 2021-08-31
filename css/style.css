@@ -1,0 +1,149 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #F9F9F9;
+  font-weight: bold;
+}
+
+h1{
+  width: 40%;
+  margin: 10px auto 0 auto;
+  padding: 10px 10px 0 10px;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #BEAEE2;
+}
+
+h2{
+  color: #BEAEE2;
+  font-weight: normal;
+  line-height: 2px;
+  padding: 0 5px 5px 5px;
+}
+
+h3{
+  color: #F6C6EA;
+}
+
+a{
+  color: #F6C6EA;
+}
+
+hr{
+  background-color: white;
+  border-style: dotted none none;
+  border-color: #9E9D89;
+  border-width: 8px;
+  height: 0;
+  width: 5%;
+}
+
+.top-container{
+  background-color: #CDF0EA;
+  margin: 0;
+  position: relative;
+  padding: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 450px;
+}
+
+.middle-headings{
+  font-size: 40px
+}
+
+.profile{
+  width: 60%;
+  margin: 0 auto 100px auto;
+}
+
+.profile-images{
+  width: 20%;
+  margin: 100px auto 25px auto;
+  padding: 5px;
+}
+
+.profile-text{
+  color: #40514E;
+  font-weight: bold;
+  margin: 70px auto 0 auto;
+  width: 65%;
+  line-height: 2;
+}
+
+.skills{
+  margin: 100px auto 0 auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-images1{
+  width: 25%;
+  margin: 0 30px 0 0;
+  display: inline-block;
+  float: left;
+}
+
+.skill-images2{
+  width: 25%;
+  margin: 0 30px 0 0;
+  display: inline-block;
+  float: right;
+}
+
+.contact-me{
+  margin: 100px auto auto auto;
+  width: 30%;
+}
+
+.contact-heading{
+  margin-top: 50px;
+}
+
+.contact-text{
+  margin: 50px auto 50px auto;
+  line-height: 2;
+}
+
+.btn{
+  background-color: #BEAEE2;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.bottom-container{
+  background-color: #CDF0EA;
+  padding: 30px;
+  margin-top: 100px;
+}
+
+.footer-link{
+  padding: 20px 20px 0 20px;
+  color: #B8DFD8;
+}
+
+.copyright{
+  margin: 20px auto auto auto;
+  color: #EAF6F6;
+}
